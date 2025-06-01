@@ -30,18 +30,6 @@ END_IF;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 // Big Centrifuge Logic
 IF "CentrifugeData".Big_State = 0 THEN
     "CentrifugeData".Big_W := 0.0;
