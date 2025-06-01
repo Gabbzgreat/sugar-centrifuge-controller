@@ -16,4 +16,31 @@ This project implements an automated control system for two sugar centrifuges (B
 ---
 
 ## 📂 Project Structure
+## 📋 Requirements
+
+- Siemens TIA Portal (v16 or later)
+- S7-1500 PLC (or simulation)
+- TP700 Comfort HMI
+- Git for version control
+
+---
+
+## ✅ Status
+
+> ✅ Fully functional and tested in simulation  
+> 🧪 Safe start/stop with temperature validation  
+> 🔄 Two full operating cycles per centrifuge  
+
+---
+
+## 🛠️ How to Run
+
+1. Clone this repository  
+   `git clone https://github.com/Gabbzgreat/sugar-centrifuge-controller.git`
+
+2. Open TIA Portal and load the project
+
+3. Simulate or deploy on PLC + HMI setup
+
+4. Watch the states, cycles, and temperature faults on HMI
 
