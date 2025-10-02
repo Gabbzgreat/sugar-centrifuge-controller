@@ -1,1 +1,3 @@
-*.iec linguist-language=Structured Text
+*.st linguist-language=Pascal
+*.scl linguist-language=Pascal
+*.iec linguist-language=Pascal
