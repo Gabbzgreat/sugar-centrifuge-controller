@@ -1,1 +1,3 @@
 *.st linguist-language=Structured Text
+*.scl linguist-language=Structured Text
+*.iec linguist-language=Structured Text
